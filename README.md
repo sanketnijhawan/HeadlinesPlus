@@ -1,4 +1,4 @@
-# HeadlinePlus  
+# HeadlinePlus 
 
 ## Overview  
 **HeadlinePlus** is a lightweight web application that provides users with the latest news headlines in real-time. It is built using vanilla JavaScript, HTML, and CSS, integrating the NewsAPI for fetching live data. The app offers a simple and clean interface to enhance the reading experience.
@@ -32,3 +32,4 @@ Here are some screenshots of the app:
    ```bash  
    git clone https://github.com/your-username/HeadlinePlus.git  
    cd HeadlinePlus  
+Remember: This project can't deploy because the API key is only for development purposes.
